@@ -1,0 +1,16 @@
+h1 {
+  font-family: sans-serif;
+  color: aqua;
+  background-color: black;
+}
+
+h2 {
+  text-align: center;
+  font-family: sans-serif;
+  color: white;
+  background-color: rebeccapurple;
+}
+.a {
+  text-align: right;
+  background-color: rgb(105, 166, 206);
+}
